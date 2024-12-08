@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.HomeTest" duration-ms="10986" started-at="2024-12-08T17:04:40Z" finished-at="2024-12-08T17:04:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10986" started-at="2024-12-08T17:04:40Z" finished-at="2024-12-08T17:04:51Z">
+      <class name="test.HomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.HomeTest@5ae63ade]" name="setup" is-config="true" duration-ms="7542" started-at="2024-12-08T22:34:40Z" finished-at="2024-12-08T22:34:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:test.HomeTest@5ae63ade]" name="testOne" duration-ms="3422" started-at="2024-12-08T22:34:47Z" finished-at="2024-12-08T22:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:test.HomeTest@5ae63ade]" name="testTwo" duration-ms="0" started-at="2024-12-08T22:34:51Z" finished-at="2024-12-08T22:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- test.HomeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.HomeTest -->
+</testng-results>

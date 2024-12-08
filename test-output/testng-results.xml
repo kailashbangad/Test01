@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8247" started-at="2024-12-08T09:25:51Z" finished-at="2024-12-08T09:26:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8247" started-at="2024-12-08T09:25:51Z" finished-at="2024-12-08T09:26:00Z">
+      <class name="org.test.jenkins_demo.HomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.test.jenkins_demo.HomeTest@20322d26]" name="setup" is-config="true" duration-ms="5302" started-at="2024-12-08T14:55:51Z" finished-at="2024-12-08T14:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:org.test.jenkins_demo.HomeTest@20322d26]" name="testOne" duration-ms="2638" started-at="2024-12-08T14:55:57Z" finished-at="2024-12-08T14:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.test.jenkins_demo.HomeTest@20322d26]" name="tearDown" is-config="true" duration-ms="301" started-at="2024-12-08T14:55:59Z" finished-at="2024-12-08T14:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:org.test.jenkins_demo.HomeTest@20322d26]" name="testTwo" duration-ms="0" started-at="2024-12-08T14:55:59Z" finished-at="2024-12-08T14:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- org.test.jenkins_demo.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
